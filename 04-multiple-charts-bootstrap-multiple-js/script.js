@@ -1,0 +1,2 @@
+barChart.render();
+lineChart.render();
